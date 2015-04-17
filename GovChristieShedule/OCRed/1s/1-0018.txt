@@ -1,0 +1,71 @@
+MERCER COUNTY
+
+WHO:
+WHAT:
+WHEN:
+
+WHERE:
+
+PRESS:
+
+Governor Chris Christie
+State of the State Address
+3:00dp.m.
+
+State House, Assembly Chambers
+125 West State Street
+Trenton, NJ
+
+OPEN
+
+Note: Non—ﬂash photography is permitted.
+
+NJTV Pool Feed Information:
+Pool Feed will be up at 2:45pm.
+
+Galaxy 1? Ku 14:45 — 17:00
+Transponder: 13K Lower
+Downlink Frequency : 11951.00 H
+Bandwidth : 18.00
+
+FEC : 3J4
+
+Data Rate : 18.2954
+
+Symbol Rate : 13.235
+MPEG : MPEG-2
+
+Modulaton : DVB-S
+Modulaton Std : QPSK
+Chroma Format : 4:2:O
+Video Format : 1080i 6OHz
+
+Tech Contact:
+Mel Obst
+609-213-8983
+
+melovista@ao|.com
+
+ESSEX COUNTY
+
+WHO:
+WHAT:
+WHEN:
+
+WHERE:
+
+PRESS:
+
+Lt. Governor Kim Guadagno
+
+New Jersey Hall of Fame Induction Ceremony
+7:30 p.m.
+
+Newark Museum
+
+49 Washington Street
+
+Newark, NJ
+
+OPEN, No Availability
+
